@@ -18,7 +18,7 @@ const Hero = () => {
           <div className="flex lg:items-center lg:gap-8 xl:gap-32.5">
             <div className=" md:w-1/2">
               <h4 className="mb-4.5 text-lg font-medium text-black dark:text-white">
-                🔥 Vortex Ops - A Complete please for you IT Services and IT Consulting
+                🔥 Vortex Ops - A Complete Please for your IT Services and IT Consulting.
               </h4>
               <h1 className="mb-5 pr-16 text-3xl font-bold text-black dark:text-white xl:text-hero ">
               Where technology meets {"   "}
