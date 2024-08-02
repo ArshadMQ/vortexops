@@ -107,7 +107,7 @@ const Contact = () => {
                       type="checkbox"
                       className="peer sr-only"
                     />
-                    <span className="border-gray-300 bg-gray-100 text-blue-600 dark:border-gray-600 dark:bg-gray-700 group mt-2 flex h-5 min-w-[20px] items-center justify-center rounded peer-checked:bg-primary">
+                    <span className="group mt-2 flex h-5 min-w-[20px] items-center justify-center rounded border-gray-300 bg-gray-100 text-blue-600 peer-checked:bg-primary dark:border-gray-600 dark:bg-gray-700">
                       <svg
                         className="opacity-0 peer-checked:group-[]:opacity-100"
                         width="10"
@@ -197,7 +197,8 @@ const Contact = () => {
                   Phone Number
                 </h4>
                 <p>
-                  <a href="">+91 9889233551</a>
+                  <a href="">+91 9889233551 </a>
+                  <br />
                   <a href="#">+91 8865019896</a>
                 </p>
               </div>
